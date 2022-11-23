@@ -1,9 +1,0 @@
-2022/11/19-16:31:12.085 206c Creating DB E:\Venom\venom\tokens\session-session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
-2022/11/19-16:31:12.286 206c Reusing MANIFEST E:\Venom\venom\tokens\session-session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/11/19-16:31:12.851 20dc Level-0 table #5: started
-2022/11/19-16:31:12.936 20dc Level-0 table #5: 6971 bytes OK
-2022/11/19-16:31:13.007 20dc Delete type=0 #3
-2022/11/19-16:31:13.007 20dc Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
-2022/11/19-16:31:56.721 1810 Level-0 table #7: started
-2022/11/19-16:31:56.828 1810 Level-0 table #7: 1157109 bytes OK
-2022/11/19-16:31:56.996 1810 Delete type=0 #4
